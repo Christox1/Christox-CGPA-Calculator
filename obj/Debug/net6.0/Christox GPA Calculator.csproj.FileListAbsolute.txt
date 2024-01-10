@@ -1,0 +1,14 @@
+C:\Users\Decagon\source\repos\Christox GPA Calculator\bin\Debug\net6.0\Christox GPA Calculator.exe
+C:\Users\Decagon\source\repos\Christox GPA Calculator\bin\Debug\net6.0\Christox GPA Calculator.deps.json
+C:\Users\Decagon\source\repos\Christox GPA Calculator\bin\Debug\net6.0\Christox GPA Calculator.runtimeconfig.json
+C:\Users\Decagon\source\repos\Christox GPA Calculator\bin\Debug\net6.0\Christox GPA Calculator.dll
+C:\Users\Decagon\source\repos\Christox GPA Calculator\bin\Debug\net6.0\Christox GPA Calculator.pdb
+C:\Users\Decagon\source\repos\Christox GPA Calculator\obj\Debug\net6.0\Christox GPA Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\Christox GPA Calculator\obj\Debug\net6.0\Christox GPA Calculator.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\Christox GPA Calculator\obj\Debug\net6.0\Christox GPA Calculator.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\Christox GPA Calculator\obj\Debug\net6.0\Christox GPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\Christox GPA Calculator\obj\Debug\net6.0\Christox GPA Calculator.dll
+C:\Users\Decagon\source\repos\Christox GPA Calculator\obj\Debug\net6.0\refint\Christox GPA Calculator.dll
+C:\Users\Decagon\source\repos\Christox GPA Calculator\obj\Debug\net6.0\Christox GPA Calculator.pdb
+C:\Users\Decagon\source\repos\Christox GPA Calculator\obj\Debug\net6.0\Christox GPA Calculator.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\Christox GPA Calculator\obj\Debug\net6.0\ref\Christox GPA Calculator.dll
